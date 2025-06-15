@@ -1,5 +1,5 @@
-# House-Price-Prediction-Project-LinearRegression
-## 🔍 Project Summary
+## House-Price-Prediction-Project-LinearRegression
+### 🔍 Project Summary
 
 This Jupyter Notebook performs an exploratory data analysis on a house pricing dataset. It includes data cleaning, visualization, and correlation analysis to uncover relationships between property features and sale price. The analysis prepares the data for future machine learning applications.
 
